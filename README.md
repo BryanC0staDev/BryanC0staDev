@@ -1,38 +1,70 @@
-# bryanslva
+<h1>👋 Olá, eu sou o Bryan Silva</h1>
 
-👋 Bryan Silva
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvedor Back-end em formação
+<p>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+💻 Desenvolvedor Back-end em formação <br>
 🚀 Focado em Python, Java, JavaScript e Machine Learning
+</p>
 
-🚀 Sobre mim
+<hr>
 
-Sou estudante de ADS com foco em desenvolvimento back-end e interesse em inteligência artificial.
-Busco resolver problemas reais com código e evoluir constantemente minhas habilidades técnicas.
+<h2>🚀 Sobre mim</h2>
 
-🛠️ Stack Tecnológica
+<p>
+Sou estudante de ADS com foco em desenvolvimento back-end e grande interesse em inteligência artificial. <br>
+Busco resolver problemas reais com código e evoluir constantemente minhas habilidades técnicas, sempre aprendendo novas tecnologias e boas práticas.
+</p>
 
-Linguagens:
-Python | Java | JavaScript
+<hr>
 
-Desenvolvimento Web:
-HTML | CSS
+<h2>🛠️ Stack Tecnológica</h2>
 
-Ferramentas:
-Git | GitHub
+<p><strong>Linguagens:</strong></p>
+<ul>
+  <li>Python</li>
+  <li>Java</li>
+  <li>JavaScript</li>
+</ul>
 
-Estudando atualmente:
-APIs REST com Flask
-Banco de dados (SQLite / MySQL)
-Fundamentos de Machine Learning
+<p><strong>Desenvolvimento Web:</strong></p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
 
-🎯 Objetivo Profissional
+<p><strong>Ferramentas:</strong></p>
+<ul>
+  <li>Git</li>
+  <li>GitHub</li>
+</ul>
 
-Busco minha primeira oportunidade de estágio como desenvolvedor, com foco em back-end e interesse em inteligência artificial, onde eu possa aplicar meus conhecimentos e crescer na área de tecnologia.
+<hr>
 
-📫 Contato
-LinkedIn: https://www.linkedin.com/in/bryan-costa-silva/
-Email: bryancosta713@gmail.com
+<h2>📚 Atualmente estudando</h2>
 
-⭐ Em constante evolução na área de tecnologia
+<ul>
+  <li>Banco de dados (SQLite / MySQL)</li>
+  <li>Fundamentos de Machine Learning</li>
+</ul>
+
+<hr>
+
+<h2>🎯 Objetivo Profissional</h2>
+
+<p>
+Busco minha primeira oportunidade de estágio como desenvolvedor, com foco em back-end e interesse em inteligência artificial. <br>
+Quero aplicar meus conhecimentos, ganhar experiência prática e crescer na área de tecnologia.
+</p>
+
+<hr>
+
+<h2>📫 Contato</h2>
+
+<ul>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/bryan-costa-silva/" target="_blank">Bryan Silva</a></li>
+  <li>📧 Email: bryancosta713@gmail.com</li>
+</ul>
+
+<hr>
+
+<p><strong>⭐ Em constante evolução na área de tecnologia</strong></p>
