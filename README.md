@@ -1,4 +1,4 @@
-<h1>👋 Olá, eu sou o Bryan Silva</h1>
+<h1>👋 Olá, eu sou o Bryan</h1>
 
 <p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
